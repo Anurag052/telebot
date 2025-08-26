@@ -1,0 +1,5 @@
+/traderbot-backend
+  |-- backend.py                 # The code I wrote for you above
+  |-- requirements.txt           # List of Python dependencies
+  |-- upstox-python-sdk.txt      # Optional, if Render asks for extra install commands
+  |-- README.md                  # Optional

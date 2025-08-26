@@ -1,0 +1,11 @@
+flask
+requests
+upstox-python-sdk
+websocket-client
+python-binance
+python-dotenv
+pandas
+numpy
+scipy
+apscheduler
+
